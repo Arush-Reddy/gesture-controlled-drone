@@ -1,0 +1,19 @@
+# Python/runtime output
+__pycache__/
+*.py[cod]
+cache/
+
+# Local render/build output
+.docx-render*/
+build/
+
+# Local settings and credentials
+.env
+secrets.h
+wifi_credentials.h
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
